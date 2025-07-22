@@ -1,16 +1,27 @@
-## Hi there 👋
+### 👋 Hey there! I'm Darshil Bhakhar
 
-<!--
-**darshil179/darshil179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Full Stack Developer** who started his coding journey the fun way — by trying to make games! 🎮 Back in my academic days, I was fascinated by how games are made. That curiosity led me to build small games in **Unity**, which later evolved into a full-blown love for software development (some of those games are in my [portfolio](https://www.darshilbhakhar.com/projects) — feel free to explore!).
 
-Here are some ideas to get you started:
+### 🔧 What I Do
+I specialize in crafting web applications that solve real-world problems with clean, maintainable code. I’ve worked across startups and enterprise-level environments — including a meaningful stint at **RBC**, where I contributed to fintech platforms like **PayEdge** and **Receivables**. My work often involves building full-stack solutions, integrating third-party APIs, and improving user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Tech Stack
+- **Backend:** PHP (Laravel), Java (Spring Boot), MySQL  
+- **Frontend:** Vue.js, JavaScript, HTML/CSS  
+- **DevOps & Tools:** Docker, Azure, GitHub Actions, Splunk, Dynatrace  
+
+### 🎯 What Drives Me
+- Solving real problems through practical software solutions 🛠️  
+- Creating smooth user experiences that customers actually enjoy 💬  
+- Debugging (yes, even the weird edge cases) 🔍  
+- Building games for fun and learning 🎲  
+
+### 🚀 My Journey
+From experimenting with Unity as a student to building real applications like food ordering systems and fintech tools, I’ve always been driven by a desire to **make tech useful and enjoyable**. I enjoy mentoring, collaborating, and turning business challenges into intuitive, scalable software.
+
+### 🌐 Want to Know More?
+Check out my portfolio 👉 [darshilbhakhar.com](https://www.darshilbhakhar.com)
+
+---
+
+📫 Open to collaborations, gaming chats, or building something awesome together!
