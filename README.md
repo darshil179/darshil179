@@ -6,7 +6,7 @@ I’m a **Full Stack Developer** who started his coding journey the fun way, by 
 I specialize in crafting web applications that solve real-world problems with clean, maintainable code. I’ve worked across startups and enterprise-level environments, including a meaningful stint at **RBC**, where I contributed to fintech platforms like **PayEdge** and **Receivables**. My work often involves building full-stack solutions, integrating third-party APIs, and improving user experiences.
 
 ### 💡 Tech Stack
-- **Backend:** PHP (Laravel), Java (Spring Boot), MySQL  
+- **Backend:** PHP (Laravel), C++, Python, Java (Spring Boot), MySQL  
 - **Frontend:** Vue.js, JavaScript, HTML/CSS  
 - **DevOps & Tools:** Docker, Azure, GitHub Actions, Splunk, Dynatrace  
 
